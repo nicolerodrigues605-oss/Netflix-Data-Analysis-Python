@@ -1,6 +1,6 @@
 # Netflix-Data-Analysis-Python
 Exploratory Data Analysis (EDA) of the Netflix Movies &amp; TV Shows dataset. Visualizes content types, genres, countries, ratings, and movie durations using Python.
-# 📊 Netflix EDA Project
+#  Netflix EDA Project
 
 A beginner-friendly Exploratory Data Analysis (EDA) on **Netflix Movies and TV Shows** using Python.
 
